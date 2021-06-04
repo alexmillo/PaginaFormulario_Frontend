@@ -1,2 +1,2 @@
 //Codificado por @alexmillo
-const projectName = "formulario-reto2";
+const projectName = "Página Formulario";
